@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Angie;Data+Science+Engineering+Student;Machine+Learning+Enthusiast;Aspiring+Data+Scientist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Angel Kisanga;Data+Science+Engineering+Student;Machine+Learning+Enthusiast;Aspiring+Data+Scientist)](https://git.io/typing-svg)
 
 ### BSc Engineering (Data Science) | Machine Learning Enthusiast | Aspiring Data Scientist
 
