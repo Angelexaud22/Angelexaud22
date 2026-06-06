@@ -1,12 +1,12 @@
 <div align="center">
 
-# Hi there, I'm Angel Kisanga
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Angie+%F0%9F%91%8B%F0%9F%8F%BE;Data+Science+Engineering+Student;Machine+Learning+Enthusiast;Aspiring+Data+Scientist+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 ### BSc Engineering (Data Science) | Machine Learning Enthusiast | Aspiring Data Scientist
 
  **Mbeya University of Science and Technology**, Tanzania 🇹🇿
 
-*Exploring the intersection of AI, Machine Learning & Data Analysis — one dataset at a time.*
+![Profile Views](https://komarev.com/ghpvc/?username=Angelexaud22&color=a855f7&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -15,10 +15,12 @@
 ###  About Me
 
 -  Currently studying **Data Science Engineering** at MUST, Mbeya
--  Learning and building projects in **Machine Learning & AI**
--  Interested in how data can solve real-world problems — in **tech and healthcare**
+-  Currently learning **Deep Learning & Data Visualization**
+-  Interested in how data solves real problems — in **tech and healthcare**
 -  Goal: Become a **Data Scientist** making impact in Africa
+-  Dreaming of using data to **transform healthcare in Tanzania**
 -  Open to **internship & field attachment** opportunities
+-  Fun fact: My diabetes app **DiaControl** was built before I fully understood the power of data — now I do!
 
 ---
 
@@ -45,11 +47,13 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <div align="center">
 
-![Angelexaud22's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Angelexaud22&show_icons=true&theme=tokyonight&hide_border=true)
+![Angelexaud22's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Angelexaud22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Angelexaud22&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Angelexaud22&layout=compact&theme=tokyonight&hide_border=true)
 
@@ -57,9 +61,26 @@
 
 ---
 
-### 🌍 Connect With Me
+###  Currently Learning
 
-*Currently building. Always learning. Open to collaborate!*
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-> *"Data is the new oil — and I'm learning how to refine it."*
+---
 
+###  Connect With Me
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/angel-kisanga-b50178405/))
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelexaud22@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Angelexaud22)
+
+---
+
+<div align="center">
+
+*"Data is the new oil — and I'm learning how to refine it."* 
+
+**Currently building. Always learning. Open to collaborate!** 
+
+</div>
