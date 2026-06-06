@@ -4,7 +4,7 @@
 
 ### BSc Engineering (Data Science) | Machine Learning Enthusiast | Aspiring Data Scientist
 
-🎓 **Mbeya University of Science and Technology**, Tanzania 🇹🇿
+ **Mbeya University of Science and Technology**, Tanzania 🇹🇿
 
 *Exploring the intersection of AI, Machine Learning & Data Analysis — one dataset at a time.*
 
@@ -14,15 +14,15 @@
 
 ### 🙋🏾‍♀️ About Me
 
-- 🔭 Currently studying **Data Science Engineering** at MUST, Mbeya
-- 🌱 Learning and building projects in **Machine Learning & AI**
-- 💡 Interested in how data can solve real-world problems — in **tech and healthcare**
-- 🎯 Goal: Become a **Data Scientist** making impact in Africa
-- 📫 Open to **internship & field attachment** opportunities
+-  Currently studying **Data Science Engineering** at MUST, Mbeya
+-  Learning and building projects in **Machine Learning & AI**
+-  Interested in how data can solve real-world problems — in **tech and healthcare**
+-  Goal: Become a **Data Scientist** making impact in Africa
+-  Open to **internship & field attachment** opportunities
 
 ---
 
-### 🛠️ Skills & Tools
+###  Skills & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -35,13 +35,13 @@
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 | Project | Description | Tech |
 |---|---|---|
-| 🕵🏾 [fake-news-detector](https://github.com/Angelexaud22/fake-news-detector) | ML model to detect fake news articles | Python, ML |
-| 🏠 [house-price-prediction](https://github.com/Angelexaud22/house-price-prediction) | Predicts house prices based on key features | TypeScript |
-| 🩺 [DiaControl](https://github.com/Angelexaud22/DiaControl) | App providing info on diabetes, glucose trends & nutrition | TypeScript |
+|  [fake-news-detector](https://github.com/Angelexaud22/fake-news-detector) | ML model to detect fake news articles | Python, ML |
+|  [house-price-prediction](https://github.com/Angelexaud22/house-price-prediction) | Predicts house prices based on key features | TypeScript |
+|  [DiaControl](https://github.com/Angelexaud22/DiaControl) | App providing info on diabetes, glucose trends & nutrition | TypeScript |
 
 ---
 
