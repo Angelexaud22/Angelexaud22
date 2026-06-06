@@ -12,7 +12,7 @@
 
 ---
 
-### 🙋🏾‍♀️ About Me
+###  About Me
 
 -  Currently studying **Data Science Engineering** at MUST, Mbeya
 -  Learning and building projects in **Machine Learning & AI**
