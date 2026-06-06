@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Angie 👋🏾
+# Hi there, I'm Angel Kisanga👋🏾
 
 ### BSc Engineering (Data Science) | Machine Learning Enthusiast | Aspiring Data Scientist
 
