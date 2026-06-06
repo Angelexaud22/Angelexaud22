@@ -1,8 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Angie+%F0%9F%91%8B%F0%9F%8F%BE;Data+Science+Engineering+Student;Machine+Learning+Enthusiast;Aspiring+Data+Scientist+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Angie;Data+Science+Engineering+Student;Machine+Learning+Enthusiast;Aspiring+Data+Scientist)](https://git.io/typing-svg)
 
-### BSc Engineering (Data Science) | Machine Learning Enthusiast | Aspiring Data Scientist.
+### BSc Engineering (Data Science) | Machine Learning Enthusiast | Aspiring Data Scientist
 
  **Mbeya University of Science and Technology**, Tanzania 🇹🇿
 
@@ -71,8 +71,8 @@
 
 ###  Connect With Me
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/angel-kisanga-b50178405/))
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelexaud22@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angel-kisanga-b50178405/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Angelexaud22)
 
 ---
